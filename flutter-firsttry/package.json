@@ -1,0 +1,19 @@
+{
+  "name": "flutter-firsttry",
+  "version": "1.0.0",
+  "description": "flutter first try on widgets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3sti/flutter-firsttry.git"
+  },
+  "author": "D3sti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D3sti/flutter-firsttry/issues"
+  },
+  "homepage": "https://github.com/D3sti/flutter-firsttry#readme"
+}
